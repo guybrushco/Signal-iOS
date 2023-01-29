@@ -228,7 +228,8 @@ private class TSConstantsProduction: TSConstantsProtocol {
         )
     ]
 
-    public let applicationGroup = "group." + Bundle.main.bundleIdPrefix + ".signal.group"
+    // public let applicationGroup = "group." + Bundle.main.bundleIdPrefix + ".signal.group"
+    public let applicationGroup = "group.com.roytestingapp.signal"
 
     // We need to discard all profile key credentials if these values ever change.
     // See: GroupsV2Impl.verifyServerPublicParams(...)
@@ -290,7 +291,8 @@ private class TSConstantsStaging: TSConstantsProtocol {
         )
     ]
 
-    public let applicationGroup = "group." + Bundle.main.bundleIdPrefix + ".signal.group.staging"
+    // public let applicationGroup = "group." + Bundle.main.bundleIdPrefix + ".signal.group.staging"
+    public let applicationGroup = "group.com.roytestingapp.signal.staging"
 
     // We need to discard all profile key credentials if these values ever change.
     // See: GroupsV2Impl.verifyServerPublicParams(...)
