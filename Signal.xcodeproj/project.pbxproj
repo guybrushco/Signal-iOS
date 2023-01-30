@@ -12704,6 +12704,7 @@
 				GCC_WARN_STRICT_SELECTOR_MATCH = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/Signal/Signal-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = SignalTwo;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -13246,6 +13247,7 @@
 				GCC_WARN_STRICT_SELECTOR_MATCH = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/Signal/Signal-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = SignalTwo;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -13740,6 +13742,7 @@
 				GCC_WARN_STRICT_SELECTOR_MATCH = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/Signal/Signal-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = SignalTwo;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -13791,6 +13794,7 @@
 				GCC_WARN_STRICT_SELECTOR_MATCH = YES;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/Signal/Signal-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = SignalTwo;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
